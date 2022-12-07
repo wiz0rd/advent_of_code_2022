@@ -1,0 +1,506 @@
+.
+├── dec7_1.py
+├── input.txt
+├── start
+│   ├── 165965_cmwllbzl.jlm
+│   ├── 179881_sdpjprfb.lsh
+│   ├── 211084_qgcn.rbj
+│   ├── 318082_tdhgd.lwf
+│   ├── 68612_ggb.qgd
+│   ├── gwnwqcgq
+│   │   ├── 169518_tbswl.btw
+│   │   ├── 310195_cqsblt.jwb
+│   │   ├── btddw
+│   │   │   ├── 315327_hjs.dcw
+│   │   │   ├── 99361_pmqmgjsw.rqn
+│   │   │   └── pjmc
+│   │   │       ├── 170798_rhgmnqz
+│   │   │       ├── 178337_vphwlqqw.dlt
+│   │   │       ├── 227980_cfbfmprt
+│   │   │       ├── 310835_mmcrfwdr.sps
+│   │   │       ├── hml
+│   │   │       │   ├── 118942_qvfdwcpn.cmv
+│   │   │       │   ├── 175159_ldbhqdbd
+│   │   │       │   ├── 194693_ggb
+│   │   │       │   ├── 227596_rhgmnqz
+│   │   │       │   ├── 90811_qgbrczz.dhh
+│   │   │       │   ├── fjtwgcw
+│   │   │       │   │   ├── 16046_gfr
+│   │   │       │   │   ├── 277037_jwpzm.vhn
+│   │   │       │   │   └── 291671_trpvvs.zgh
+│   │   │       │   ├── mzthvdms
+│   │   │       │   │   ├── 244911_cqsblt.jwb
+│   │   │       │   │   ├── 313958_tqrz.wfd
+│   │   │       │   │   └── 37587_gplsqzr.nwn
+│   │   │       │   ├── tnvsdr
+│   │   │       │   │   ├── 185961_qgbrczz.dhh
+│   │   │       │   │   └── 85515_wjgvlj.qcq
+│   │   │       │   └── vplhff
+│   │   │       │       └── trjdm
+│   │   │       │           ├── 244126_nhv.vgt
+│   │   │       │           └── 795_vlnwhgsc.tzm
+│   │   │       ├── sdpjprfb
+│   │   │       │   └── htvgnrrl
+│   │   │       │       └── 240529_cfbfmprt
+│   │   │       ├── wnmh
+│   │   │       │   ├── 184351_tpfzqcs
+│   │   │       │   ├── 322372_qgbrczz.dhh
+│   │   │       │   ├── gccwr
+│   │   │       │   │   └── 290656_tswtgpd.jsp
+│   │   │       │   └── rlhn
+│   │   │       │       └── 208348_gfr
+│   │   │       └── zqcnhs
+│   │   │           ├── 11336_pjmc.jwv
+│   │   │           ├── 5056_qgbrczz.dhh
+│   │   │           ├── dtfrbzgn
+│   │   │           │   ├── 132783_gbvcnv
+│   │   │           │   ├── 298563_pjmc
+│   │   │           │   ├── 81684_sdpjprfb
+│   │   │           │   └── ghbwbc
+│   │   │           │       └── zgvwrms
+│   │   │           │           └── 296919_tlm.rlb
+│   │   │           └── phhdmp
+│   │   │               └── ggb
+│   │   │                   ├── 196423_qrb.hpd
+│   │   │                   └── 316842_jrmgt.mqw
+│   │   ├── ggb
+│   │   │   ├── 108630_cqsblt.jwb
+│   │   │   ├── 135624_gfr
+│   │   │   ├── 216771_fzvcgf
+│   │   │   ├── fdmst
+│   │   │   │   ├── 20042_ldgpzcbr
+│   │   │   │   ├── gcq
+│   │   │   │   │   └── 132662_lvg.jpb
+│   │   │   │   ├── nnp
+│   │   │   │   │   ├── 17421_pjmc.hgp
+│   │   │   │   │   └── 229401_css.qfj
+│   │   │   │   ├── pjmc
+│   │   │   │   │   └── 317512_pjmc.qph
+│   │   │   │   ├── qng
+│   │   │   │   │   ├── 241771_cvlnwltp
+│   │   │   │   │   └── 91504_qgbrczz.dhh
+│   │   │   │   └── sdpjprfb
+│   │   │   │       └── 82422_sdpjprfb.ljt
+│   │   │   ├── pdwln
+│   │   │   │   └── sdpjprfb
+│   │   │   │       └── 285618_ltfcmg.chw
+│   │   │   └── sdpjprfb
+│   │   │       └── 58655_cqsblt.jwb
+│   │   ├── hhdfbj
+│   │   │   └── 2937_pslftrf.nqf
+│   │   ├── hrj
+│   │   │   ├── 100487_rhgmnqz
+│   │   │   ├── 248216_tswtgpd.jsp
+│   │   │   ├── 25769_bcpl.shg
+│   │   │   ├── 300324_qrvtsrs
+│   │   │   ├── 3722_hdwqmgwf
+│   │   │   ├── dfdtszr
+│   │   │   │   ├── hfmnrlvj
+│   │   │   │   │   └── 237362_cqsblt.jwb
+│   │   │   │   ├── plzr
+│   │   │   │   │   └── 295398_bjw.nlg
+│   │   │   │   └── zpspcph
+│   │   │   │       └── 87660_pjmc
+│   │   │   ├── ggb
+│   │   │   │   ├── jtpb
+│   │   │   │   │   ├── 249820_bfdl.jmv
+│   │   │   │   │   ├── dggzszwn
+│   │   │   │   │   │   └── 233228_lrhwrh.mqm
+│   │   │   │   │   ├── ggb
+│   │   │   │   │   │   ├── 88734_tsbggqvp.fjl
+│   │   │   │   │   │   └── tcrjcmq
+│   │   │   │   │   │       └── 36677_wfdtbgf.hft
+│   │   │   │   │   └── whms
+│   │   │   │   │       ├── ggb
+│   │   │   │   │       │   └── sdpjprfb
+│   │   │   │   │       │       └── 177878_jhbdqn
+│   │   │   │   │       ├── pjmc
+│   │   │   │   │       │   └── 35345_swmcmqq.clm
+│   │   │   │   │       └── vtgcdprq
+│   │   │   │   │           └── 293766_gfr
+│   │   │   │   └── rsptqbh
+│   │   │   │       ├── 239634_fszzvprc.phh
+│   │   │   │       ├── 240240_tswtgpd.jsp
+│   │   │   │       ├── csvpjd
+│   │   │   │       │   └── 218253_rndllvcd
+│   │   │   │       └── zjvc
+│   │   │   │           └── 98002_cqsblt.jwb
+│   │   │   ├── nssjjtp
+│   │   │   │   └── 63947_tswtgpd.jsp
+│   │   │   ├── sdpjprfb
+│   │   │   │   ├── 30257_flbhswlb.ccd
+│   │   │   │   ├── cgczvvbg
+│   │   │   │   │   ├── 142476_qgbrczz.dhh
+│   │   │   │   │   ├── 164431_wjfll.zdw
+│   │   │   │   │   ├── 22048_ggb.jrv
+│   │   │   │   │   ├── bntjhfd
+│   │   │   │   │   │   └── 217858_hpt.jll
+│   │   │   │   │   ├── rchlvjb
+│   │   │   │   │   │   ├── 100353_vhs
+│   │   │   │   │   │   └── 208149_qrdrwtfw.dbd
+│   │   │   │   │   └── vfrrnf
+│   │   │   │   │       └── 3071_jdz
+│   │   │   │   ├── qdqdv
+│   │   │   │   │   └── 26265_nvtr.ndw
+│   │   │   │   └── vqhps
+│   │   │   │       ├── 185897_vssw
+│   │   │   │       ├── 284249_lqpwzz
+│   │   │   │       ├── 288263_gfr
+│   │   │   │       ├── 317973_gfvsbqc
+│   │   │   │       ├── njstt
+│   │   │   │       │   ├── 110742_qgbrczz.dhh
+│   │   │   │       │   └── 313561_jgq.mvw
+│   │   │   │       └── rbhd
+│   │   │   │           ├── 11259_cqsblt.jwb
+│   │   │   │           ├── 141859_vrv.sll
+│   │   │   │           ├── 281719_srfgltg.nrz
+│   │   │   │           ├── 286309_ltfcmg.chw
+│   │   │   │           ├── 83632_tswtgpd.jsp
+│   │   │   │           ├── gchzg
+│   │   │   │           │   └── phnz
+│   │   │   │           │       └── 212607_mdrgcdl.vfp
+│   │   │   │           ├── qmsntzj
+│   │   │   │           │   └── 87958_gfr
+│   │   │   │           ├── sdpjprfb
+│   │   │   │           │   └── 110482_ggb.wnf
+│   │   │   │           ├── vsg
+│   │   │   │           │   └── 232499_sdpjprfb
+│   │   │   │           └── wbqshdm
+│   │   │   │               └── pjmc
+│   │   │   │                   └── 273630_pjmc
+│   │   │   └── tmdtrqsl
+│   │   │       └── 139366_sqfj.hrg
+│   │   ├── mdhln
+│   │   │   ├── bftszdgn
+│   │   │   │   ├── 106046_wvf.zvc
+│   │   │   │   ├── 201607_cqsblt.jwb
+│   │   │   │   ├── 206539_cplch.dsb
+│   │   │   │   ├── 207839_gdz.plv
+│   │   │   │   ├── 72021_ltfcmg.chw
+│   │   │   │   ├── ggb
+│   │   │   │   │   ├── 242347_cqsblt.jwb
+│   │   │   │   │   ├── 272603_ltfcmg.chw
+│   │   │   │   │   ├── 273519_nrrz.dfj
+│   │   │   │   │   └── 5628_pjmc
+│   │   │   │   └── nddh
+│   │   │   │       └── 243243_ltfcmg.chw
+│   │   │   ├── crhbc
+│   │   │   │   ├── 120001_ltfcmg.chw
+│   │   │   │   ├── 120308_qgbrczz.dhh
+│   │   │   │   ├── ccw
+│   │   │   │   │   ├── fgghhg
+│   │   │   │   │   │   ├── 134050_qgbrczz.dhh
+│   │   │   │   │   │   ├── 150925_ggb
+│   │   │   │   │   │   └── 238488_czpsmdm
+│   │   │   │   │   └── pjmc
+│   │   │   │   │       └── 138343_sdpjprfb.bmh
+│   │   │   │   ├── ggb
+│   │   │   │   │   ├── 157435_rffmjwpm
+│   │   │   │   │   ├── sdpjprfb
+│   │   │   │   │   │   └── jwjpwbdj
+│   │   │   │   │   │       └── 88782_tswtgpd.jsp
+│   │   │   │   │   ├── tbd
+│   │   │   │   │   │   └── 203640_vclsjppl.jws
+│   │   │   │   │   └── zgmffgdz
+│   │   │   │   │       ├── 203870_ggb
+│   │   │   │   │       └── jhcrw
+│   │   │   │   │           └── 70775_gfr
+│   │   │   │   ├── pcqcswz
+│   │   │   │   │   └── 260246_zlwc.rnh
+│   │   │   │   ├── sscfn
+│   │   │   │   │   ├── 17708_ltfcmg.chw
+│   │   │   │   │   ├── 230679_gsbj.nzd
+│   │   │   │   │   ├── 265717_ggb
+│   │   │   │   │   ├── 75162_bjtwwgf
+│   │   │   │   │   ├── cfthmzh
+│   │   │   │   │   │   ├── 187701_pjmc
+│   │   │   │   │   │   ├── 296793_chgws.qfd
+│   │   │   │   │   │   └── 29681_qgbrczz.dhh
+│   │   │   │   │   ├── pdgwcshp
+│   │   │   │   │   │   ├── cfbfmprt
+│   │   │   │   │   │   │   └── rwflz
+│   │   │   │   │   │   │       ├── 33792_gtt.qcl
+│   │   │   │   │   │   │       ├── jrblfq
+│   │   │   │   │   │   │       │   └── 224257_cqsblt.jwb
+│   │   │   │   │   │   │       └── rldtppt
+│   │   │   │   │   │   │           └── nzgg
+│   │   │   │   │   │   │               └── 139560_fhbw.vhm
+│   │   │   │   │   │   ├── lqbh
+│   │   │   │   │   │   │   ├── mhdbp
+│   │   │   │   │   │   │   │   ├── 28344_wtc.cfd
+│   │   │   │   │   │   │   │   └── ggb
+│   │   │   │   │   │   │   │       ├── 220117_rvdpjmgt.szq
+│   │   │   │   │   │   │   │       └── hwdtp
+│   │   │   │   │   │   │   │           └── 288606_cqsblt.jwb
+│   │   │   │   │   │   │   └── nqsz
+│   │   │   │   │   │   │       ├── 197106_dpjfbs.rvc
+│   │   │   │   │   │   │       └── 55173_pjl
+│   │   │   │   │   │   └── rrtpqd
+│   │   │   │   │   │       └── 178_pjmc
+│   │   │   │   │   └── ztrpvlbh
+│   │   │   │   │       ├── 188328_ddqjnzvw.rdd
+│   │   │   │   │       ├── 201371_bhb.pmw
+│   │   │   │   │       └── 206451_tswtgpd.jsp
+│   │   │   │   └── vpsj
+│   │   │   │       ├── 300968_ctmdnwgt.pgj
+│   │   │   │       └── 5614_cqsblt.jwb
+│   │   │   ├── ggb
+│   │   │   │   ├── 14512_hzgq.tsb
+│   │   │   │   ├── 282216_zdsbj
+│   │   │   │   ├── 302375_pjmc.tlj
+│   │   │   │   ├── ggb
+│   │   │   │   │   ├── 180980_brpqch.plw
+│   │   │   │   │   ├── 322227_qgbrczz.dhh
+│   │   │   │   │   └── 42195_ltfcmg.chw
+│   │   │   │   ├── thhgz
+│   │   │   │   │   ├── 253851_gfr
+│   │   │   │   │   ├── 272552_gsb
+│   │   │   │   │   ├── 276958_tswtgpd.jsp
+│   │   │   │   │   ├── 74145_cfbfmprt.cmp
+│   │   │   │   │   └── pgfqw
+│   │   │   │   │       ├── 185688_qrml.bvv
+│   │   │   │   │       └── 193634_ggb.zjg
+│   │   │   │   └── zrzmb
+│   │   │   │       ├── 253620_sbscbqg.jfg
+│   │   │   │       ├── 84603_gfr
+│   │   │   │       ├── chjmbq
+│   │   │   │       │   └── svmvlm
+│   │   │   │       │       └── 251057_nhjwcjj.dgz
+│   │   │   │       └── rbms
+│   │   │   │           └── 72618_tswtgpd.jsp
+│   │   │   ├── jhmvgjrr
+│   │   │   │   ├── 110715_rhgmnqz
+│   │   │   │   ├── 147256_ggb
+│   │   │   │   ├── 172682_djp.npm
+│   │   │   │   ├── 183342_tswtgpd.jsp
+│   │   │   │   ├── 189022_cqsblt.jwb
+│   │   │   │   ├── gdfgtz
+│   │   │   │   │   ├── 190140_dgrwz
+│   │   │   │   │   ├── 248802_sdpjprfb.dpw
+│   │   │   │   │   └── 268771_cqsblt.jwb
+│   │   │   │   ├── ghv
+│   │   │   │   │   ├── 304352_qzjtnr.qcf
+│   │   │   │   │   ├── ggb
+│   │   │   │   │   │   ├── 285635_ltfcmg.chw
+│   │   │   │   │   │   └── vzfdbtg
+│   │   │   │   │   │       └── pqmb
+│   │   │   │   │   │           └── 219019_ggb.nmh
+│   │   │   │   │   ├── npqbngg
+│   │   │   │   │   │   ├── 242286_cqsblt.jwb
+│   │   │   │   │   │   ├── cfbfmprt
+│   │   │   │   │   │   │   ├── 34347_cqsblt.jwb
+│   │   │   │   │   │   │   ├── gpnzggqb
+│   │   │   │   │   │   │   │   ├── 192404_tswtgpd.jsp
+│   │   │   │   │   │   │   │   ├── 88344_vdb.rzm
+│   │   │   │   │   │   │   │   ├── pjmc
+│   │   │   │   │   │   │   │   │   ├── 135911_zmjhz.tdv
+│   │   │   │   │   │   │   │   │   ├── 142330_psbppvhn
+│   │   │   │   │   │   │   │   │   ├── 168892_qgbrczz.dhh
+│   │   │   │   │   │   │   │   │   ├── 18858_vzzc.mtd
+│   │   │   │   │   │   │   │   │   └── pjmc
+│   │   │   │   │   │   │   │   │       ├── 197370_mlf
+│   │   │   │   │   │   │   │   │       └── 36218_nwq.njv
+│   │   │   │   │   │   │   │   ├── pqbf
+│   │   │   │   │   │   │   │   │   └── 233005_gfr
+│   │   │   │   │   │   │   │   ├── qjpwm
+│   │   │   │   │   │   │   │   │   ├── 129132_qqmrm.jrj
+│   │   │   │   │   │   │   │   │   └── 6309_tswtgpd.jsp
+│   │   │   │   │   │   │   │   └── zjglfpt
+│   │   │   │   │   │   │   │       └── 186963_qgbrczz.dhh
+│   │   │   │   │   │   │   ├── nvdqw
+│   │   │   │   │   │   │   │   ├── 147955_fcgrqq
+│   │   │   │   │   │   │   │   └── 224829_gfr
+│   │   │   │   │   │   │   ├── qdtcwm
+│   │   │   │   │   │   │   │   └── 36443_ltfcmg.chw
+│   │   │   │   │   │   │   └── ssgg
+│   │   │   │   │   │   │       └── 250574_jddfdj
+│   │   │   │   │   │   ├── hrqfqpzr
+│   │   │   │   │   │   │   ├── 143568_pjmc
+│   │   │   │   │   │   │   ├── sdpjprfb
+│   │   │   │   │   │   │   │   └── 88050_rhgmnqz
+│   │   │   │   │   │   │   └── shcrrpc
+│   │   │   │   │   │   │       ├── pjmc
+│   │   │   │   │   │   │       │   └── wbj
+│   │   │   │   │   │   │       │       └── 196127_gfr
+│   │   │   │   │   │   │       └── pwnnmpm
+│   │   │   │   │   │   │           ├── cgghrf
+│   │   │   │   │   │   │           │   └── 108742_lbpfnccl.mtj
+│   │   │   │   │   │   │           ├── rhgmnqz
+│   │   │   │   │   │   │           │   └── 89791_qgbrczz.dhh
+│   │   │   │   │   │   │           └── vnbvq
+│   │   │   │   │   │   │               ├── 241813_qgbrczz.dhh
+│   │   │   │   │   │   │               └── 48961_ltfcmg.chw
+│   │   │   │   │   │   ├── nsnfq
+│   │   │   │   │   │   │   └── tgdqz
+│   │   │   │   │   │   │       └── ggb
+│   │   │   │   │   │   │           └── rhgmnqz
+│   │   │   │   │   │   │               └── 268661_cfbfmprt.tbl
+│   │   │   │   │   │   ├── rggzmfqm
+│   │   │   │   │   │   │   ├── 177501_qqn
+│   │   │   │   │   │   │   └── 55857_sdpjprfb.srj
+│   │   │   │   │   │   └── wjdnwg
+│   │   │   │   │   │       ├── 147729_lsjvsmsv
+│   │   │   │   │   │       ├── 203791_tswtgpd.jsp
+│   │   │   │   │   │       ├── 237172_sdpjprfb.cwf
+│   │   │   │   │   │       ├── 242095_pjmc
+│   │   │   │   │   │       ├── sqh
+│   │   │   │   │   │       │   ├── 107978_lgsncr
+│   │   │   │   │   │       │   ├── 175692_gfr
+│   │   │   │   │   │       │   ├── 214010_cqsblt.jwb
+│   │   │   │   │   │       │   └── 44848_cfbfmprt
+│   │   │   │   │   │       └── zgfz
+│   │   │   │   │   │           ├── 184114_cfbfmprt.gpf
+│   │   │   │   │   │           └── 207186_qgbrczz.dhh
+│   │   │   │   │   └── sdpjprfb
+│   │   │   │   │       └── 73238_hfbvz
+│   │   │   │   ├── pjmc
+│   │   │   │   │   ├── 210824_cqsblt.jwb
+│   │   │   │   │   ├── pllr
+│   │   │   │   │   │   ├── 123059_tswtgpd.jsp
+│   │   │   │   │   │   ├── 210365_ltfcmg.chw
+│   │   │   │   │   │   ├── 96591_rhgmnqz.wbc
+│   │   │   │   │   │   ├── fshjdzp
+│   │   │   │   │   │   │   └── 143719_sdpjprfb
+│   │   │   │   │   │   ├── rfbdg
+│   │   │   │   │   │   │   └── 242103_wllggqm.wcg
+│   │   │   │   │   │   ├── rzzwcb
+│   │   │   │   │   │   │   └── rhgmnqz
+│   │   │   │   │   │   │       └── 80525_cqsblt.jwb
+│   │   │   │   │   │   └── zzcw
+│   │   │   │   │   │       └── 260646_jtgzqh
+│   │   │   │   │   └── tqqjp
+│   │   │   │   │       └── 245089_vszrfcc
+│   │   │   │   ├── sdpjprfb
+│   │   │   │   │   └── 7514_cfbfmprt.dvj
+│   │   │   │   └── tjlf
+│   │   │   │       └── pjmc
+│   │   │   │           ├── 197486_gfr
+│   │   │   │           └── 230234_cfbfmprt.mqf
+│   │   │   ├── pjmc
+│   │   │   │   ├── 19935_fblsvg.btt
+│   │   │   │   ├── 222906_gjl.zrv
+│   │   │   │   ├── 84255_jfqqjzbd
+│   │   │   │   ├── fgvv
+│   │   │   │   │   ├── 132961_vzbl.mnq
+│   │   │   │   │   ├── 312078_tswtgpd.jsp
+│   │   │   │   │   └── 94831_dgn
+│   │   │   │   ├── ggb
+│   │   │   │   │   ├── 310301_msdr.wnh
+│   │   │   │   │   └── hfcr
+│   │   │   │   │       ├── 318041_dnp.lcn
+│   │   │   │   │       ├── mjrhdq
+│   │   │   │   │       │   ├── 18541_ctrrm.ljc
+│   │   │   │   │       │   └── 247841_pjmc
+│   │   │   │   │       └── qwvfg
+│   │   │   │   │           ├── 128875_clvgmp.cvb
+│   │   │   │   │           ├── 138276_cqsblt.jwb
+│   │   │   │   │           └── 26303_tswtgpd.jsp
+│   │   │   │   └── pjmc
+│   │   │   │       └── 106609_ltfcmg.chw
+│   │   │   └── sgpnzv
+│   │   │       ├── 218397_ltfcmg.chw
+│   │   │       └── 233365_sdpjprfb.mfd
+│   │   ├── nwbndtgl
+│   │   │   ├── 198516_sdpjprfb.shs
+│   │   │   └── fsdvzvvv
+│   │   │       ├── 104248_rhgmnqz
+│   │   │       ├── 209527_ggb
+│   │   │       ├── 99039_msgsztv.hnq
+│   │   │       ├── llwbm
+│   │   │       │   ├── 187895_ghr.crq
+│   │   │       │   ├── 274721_qpr.gnm
+│   │   │       │   └── qrrs
+│   │   │       │       └── 260559_mnmhqww
+│   │   │       └── lzz
+│   │   │           ├── tnmwncgl
+│   │   │           │   └── 301449_hqz
+│   │   │           └── wrjjmhz
+│   │   │               ├── 145193_mdv
+│   │   │               └── 73533_zjwlt.vqf
+│   │   ├── pjmc
+│   │   │   ├── 169928_gvwcdhvn
+│   │   │   ├── 314117_qgbrczz.dhh
+│   │   │   └── 40049_cqsblt.jwb
+│   │   ├── rgb
+│   │   │   ├── 173344_ltfcmg.chw
+│   │   │   ├── 240228_fvdpqr.vdz
+│   │   │   ├── 28301_sdpjprfb.qlh
+│   │   │   ├── 57953_cqsblt.jwb
+│   │   │   ├── bvwn
+│   │   │   │   ├── cfbfmprt
+│   │   │   │   │   ├── 234044_zmlrt.zwb
+│   │   │   │   │   └── vndbzj
+│   │   │   │   │       └── cfbfmprt
+│   │   │   │   │           └── ptzpcqh
+│   │   │   │   │               └── 141535_cqsblt.jwb
+│   │   │   │   ├── fjmbvhh
+│   │   │   │   │   ├── 146029_rhgmnqz.bsq
+│   │   │   │   │   └── 244287_gfr
+│   │   │   │   ├── ggb
+│   │   │   │   │   └── 279627_tswtgpd.jsp
+│   │   │   │   ├── pdgsf
+│   │   │   │   │   ├── 21454_qncpwnsw.jnc
+│   │   │   │   │   ├── 318538_tswtgpd.jsp
+│   │   │   │   │   ├── 49920_sdpjprfb.mmp
+│   │   │   │   │   └── fjdlhn
+│   │   │   │   │       └── rhgmnqz
+│   │   │   │   │           └── 209357_wggmwlfm
+│   │   │   │   └── sdpjprfb
+│   │   │   │       └── 39774_rhgmnqz.wrv
+│   │   │   └── pjmc
+│   │   │       ├── 115169_flhtvnq.gzc
+│   │   │       ├── 147102_ltfcmg.chw
+│   │   │       └── 279604_rnn.cpc
+│   │   └── sdpjprfb
+│   │       ├── 110279_tnfdmgfl
+│   │       ├── 170481_rhgmnqz
+│   │       └── 48045_szgwfcl.tlh
+│   ├── pdlpwdp
+│   │   ├── 59208_tswtgpd.jsp
+│   │   ├── fwsbsprp
+│   │   │   └── 177666_rhczscsq.gmb
+│   │   ├── gjjjwznz
+│   │   │   ├── 163647_cpft.fvj
+│   │   │   └── 60316_gfr
+│   │   ├── jzpwnpmc
+│   │   │   ├── 46041_ltfcmg.chw
+│   │   │   ├── cfbfmprt
+│   │   │   │   ├── 16870_cqsblt.jwb
+│   │   │   │   └── slj
+│   │   │   │       └── 291893_gdjb.rfv
+│   │   │   └── gpd
+│   │   │       └── 159168_qgbrczz.dhh
+│   │   ├── qlvfslzp
+│   │   │   ├── 102746_ggb.tth
+│   │   │   ├── 134188_wbhbmbm.bpz
+│   │   │   ├── 153495_zdjmnjt.smn
+│   │   │   ├── 296043_sgf.ssl
+│   │   │   ├── 35817_pjmc.hsc
+│   │   │   ├── clnms
+│   │   │   │   └── ggb
+│   │   │   │       └── 305684_rhgmnqz.bht
+│   │   │   ├── sdpjprfb
+│   │   │   │   └── 29970_ghsjjc
+│   │   │   └── sqhbbsbj
+│   │   │       └── 150243_pjmc.mzd
+│   │   └── sdpjprfb
+│   │       ├── cfbfmprt
+│   │       │   └── ggb
+│   │       │       ├── 158203_jtcfv.mvc
+│   │       │       └── qnqcb
+│   │       │           └── 71245_cqsblt.jwb
+│   │       └── qnhl
+│   │           └── sdpjprfb
+│   │               └── 306685_cqsblt.jwb
+│   ├── sbps
+│   │   ├── 13484_zhzslc.bvp
+│   │   ├── 213946_rhgmnqz.nzh
+│   │   ├── 251286_cqsblt.jwb
+│   │   └── pjmc
+│   │       ├── 249059_wjb.rwq
+│   │       └── 9892_tswtgpd.jsp
+│   └── wvdlv
+│       └── 314303_qlbqgp.njq
+└── tree.txt
+
+204 directories, 299 files
